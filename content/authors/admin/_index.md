@@ -143,11 +143,10 @@ awards:
     url: 
     date: '2024-12-01'
     awarder: Indian Society of Labour Economics
-    icon: 
-    summary: |
-      I studied the foundational concept 
+ 
+
  
 
 ## About Me
 
-Gopinath is an ...nnn
+Gopinath is an
