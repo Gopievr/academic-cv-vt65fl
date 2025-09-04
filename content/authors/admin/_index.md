@@ -53,57 +53,17 @@ education:
     institution: Indian Institute of Management Bangalore
     date_start: 2021
     date_end: 2026
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    
   - area: Master's in Local Governance and Development
     institution: RG National Institute of Youth Development, Chenani
     date_start: 2017
     date_end: 20219
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
   - area: B.Tech. in  Rubber and Plastics Technology
     institution: Anna University, Chennai
     date_start: 2015
     date_end: 2011
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: 
-    company_name:
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
